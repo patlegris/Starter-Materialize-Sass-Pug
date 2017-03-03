@@ -41,8 +41,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -346,7 +346,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488471787601</updated>
       <workItem from="1488471788912" duration="21000" />
-      <workItem from="1488532310616" duration="7375000" />
+      <workItem from="1488532310616" duration="7846000" />
     </task>
     <task id="LOCAL-00001" summary="First test OK, some to be run nice">
       <created>1488535256067</created>
@@ -390,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488547680271</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OK try me">
+      <created>1488547970341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1488547970341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7396000" />
+    <option name="totallyTimeSpent" value="7867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="579" y="0" width="1348" height="1047" extended-state="0" />
@@ -572,8 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
