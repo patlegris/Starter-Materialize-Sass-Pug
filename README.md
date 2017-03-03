@@ -21,7 +21,11 @@ The main include is index.pug
 The layouts of your components is in... layout
 
 ## Start
-To start gulp open a cli in the root and try "gulp start", maybe...
+FIRST open a cli in the root and dont forget : 
+> npm install
+
+To start gulp try "gulp start", maybe...
+> gulp start
 
 ### Enjoy!
 
