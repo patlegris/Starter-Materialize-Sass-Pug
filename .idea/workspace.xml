@@ -1,8 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b3d9b3b-4936-4ff1-b5fd-2f16082d4c37" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="9b3d9b3b-4936-4ff1-b5fd-2f16082d4c37" name="Default" comment="First test OK, some to be run nice">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js-personal/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/bin/materialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/bin/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/cards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/character_counter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/chips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/collapsible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/date_picker/picker.date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/date_picker/picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/hammer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/initial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/jquery.hammer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/materialbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/pushpin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/scrollFire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/sideNav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/toasts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/js/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_chips.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_collapsible.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_color.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_icons-material-design.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_materialbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_prefixer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_preloader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_roboto.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_sideNav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_table_of_contents.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_toast.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/_waves.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/date_picker/_default.date.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/date_picker/_default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/date_picker/_default.time.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_checkboxes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_file-input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_input-fields.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_radio-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_range.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/components/forms/_switches.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_assets/scss/materialize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/src/index.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/src/layout/footer.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/src/layout/head.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/src/layout/header.pug" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bin/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bin/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/cards.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/character_counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chips.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/collapsible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/date_picker/picker.date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/date_picker/picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/forms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/hammer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/initial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.hammer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/materialbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/parallax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/pushpin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/scrollFire.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sideNav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/toasts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/transitions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/velocity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/waves.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_cards.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_chips.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_collapsible.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_color.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_icons-material-design.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_materialbox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_prefixer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_preloader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_roboto.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_sideNav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_slider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_table_of_contents.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_tabs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_toast.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/_waves.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/date_picker/_default.date.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/date_picker/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/date_picker/_default.time.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_checkboxes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_file-input.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_input-fields.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_radio-buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_range.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_select.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/components/forms/_switches.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/materialize.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +212,58 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="head.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/src/layout/head.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/src/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.pug" />
+        <option value="$PROJECT_DIR$/views/src/layout/head.pug" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -24,10 +271,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="862" />
+    <option name="width" value="1065" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -69,6 +319,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -99,6 +350,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -133,31 +390,33 @@
       <option name="presentableId" value="Default" />
       <updated>1488471787601</updated>
       <workItem from="1488471788912" duration="21000" />
+      <workItem from="1488532310616" duration="2771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21000" />
+    <option name="totallyTimeSpent" value="2792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="false" />
+    <frame x="862" y="0" width="1065" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18606965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -168,8 +427,83 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First test OK, some to be run nice" />
+    <option name="LAST_COMMIT_MESSAGE" value="First test OK, some to be run nice" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/src/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/src/layout/footer.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/src/layout/head.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
